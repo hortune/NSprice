@@ -1,6 +1,8 @@
 # NSprice
 A project for NSwitch user to find the suitable price of games.
 
+## Usage
+- `scrapy crawl gamesale -a tag="Your Query"`
 
 ## Feature
 - [x] PTT Gamesale
